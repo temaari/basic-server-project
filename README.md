@@ -1,0 +1,1 @@
+This is a project to understand node and the basics of creating a server.
